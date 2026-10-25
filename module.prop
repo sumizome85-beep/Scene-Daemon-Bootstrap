@@ -1,0 +1,8 @@
+id=scene_daemon_bootstrap
+name=Scene Daemon Bootstrap
+version=1.1.4
+versionCode=15
+author=Sumizome
+description=Boot-time provisioning and supervision of the Scene daemon (com.omarea.vtools) over ADB. (Last Updated: 2026-10-25)
+axeronPlugin=14600
+banner=banner.png
